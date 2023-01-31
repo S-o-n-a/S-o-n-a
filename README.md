@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-o-n-a
+- 👋 Hi, I’m @Sona
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning MSC DS in CHRIST(DEEMED TO BE UNIVERSITY)
 - 💞️ I’m looking to collaborate on i dont know
